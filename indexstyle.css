@@ -42,9 +42,16 @@ h4 {
 
 .card-deck {
 	padding: 3px;
+	margin: auto;
+	width: auto;
 }
 
 .card-title {
 	background-color: red;
-	font-size: 40px;
+	font-size: 33px;
+}
+
+.card {
+	min-height: 83px;
+	min-width: 30px;
 }
