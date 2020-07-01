@@ -1,0 +1,50 @@
+body {
+	background-color: turquoise;
+}
+
+h1 {
+	background-color:turquoise;
+	text-align: center;
+	color: red;
+}
+
+h4 {
+	font-size: 36px;
+	color: red;
+	text-align: center;
+}
+
+.abouth2 {
+	color: red;
+	font-size: 50px;
+}
+
+.aboutMe {
+	width: 50%;
+	padding: 3px;
+	border: 2px;
+}
+
+.card-text {
+	background-color: black;
+	color: red;
+	font-size: 30px;
+}
+
+.display-4 {
+	font-size: 5em;
+}
+
+.block-header {
+	text-align: center;
+	padding: 3px;
+}
+
+.card-deck {
+	padding: 3px;
+}
+
+.card-title {
+	background-color: red;
+	font-size: 40px;
+}
